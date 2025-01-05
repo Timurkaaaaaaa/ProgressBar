@@ -1,3 +1,3 @@
 import ProgressBar
 
-ProgressBar.PercentProgressBar(25,50)
+ProgressBar.PercentProgressBar(24,50, True)
