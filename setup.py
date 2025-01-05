@@ -8,7 +8,7 @@ setup(
     author='Timurkaaa',
     author_email='timurzarovskiy@gmail.com',
     description='a simple tool for displaying task progress in Python console applications. It allows users to see how far the process has progressed, making your code more interactive and usable.',
-    long_description=open('README.md').read(),
+    long_description=open('.github/README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/Timurkaaaaaaa/ProgressBar/',
     classifiers=[
