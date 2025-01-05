@@ -28,8 +28,13 @@ ProgressBar.PercentProgressBar(value, full, True)</code></pre>
 </section>
 <hr>
 <section class="end">
-  <div>
+  <div class="Contridution">
     <h2>Contribution:</h2>
     If you would like to contribute to the project, please fork the repository, make changes, and create a pull request. We welcome any suggestions and improvements!
+  </div>
+  <hr>
+  <div class="Author">
+    <h2>Author:</h2>
+    - <a href="https://github.com/Timurkaaaaaaa">Timurkaaa</a>
   </div>
 </section>
